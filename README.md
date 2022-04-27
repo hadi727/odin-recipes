@@ -1,2 +1,2 @@
 # odin-recipes
-A recipe website made following The Odin Project.
+My very own recipe website made by following The Odin Project.
